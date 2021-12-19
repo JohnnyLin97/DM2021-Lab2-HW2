@@ -1,0 +1,2 @@
+W2V+GRU 
+https://sfhsu29.medium.com/nlp-%E5%85%A5%E9%96%80-2-text-classification-sentiment-analysis-%E9%80%B2%E9%9A%8E%E6%83%85%E6%84%9F%E5%88%86%E9%A1%9E%E5%99%A8-word2vec-rnn-gru-1979f48d47b
